@@ -14,8 +14,8 @@ It can write to /var/ and /tmp and it can read from anywhere. Enjoy
 
 ### Me:
 <ul>
-  <li>GeoSn0w on Twitter: <a href="twitter.com/FCE365">@FCE365</a></li>
-  <li>My YouTube channel: <a href="youtube.com/fce365official">iDevice Central</li>
+  <li>GeoSn0w on Twitter: <a href="https://twitter.com/FCE365">@FCE365</a></li>
+  <li>My YouTube channel: <a href="https://youtube.com/fce365official">iDevice Central</li>
 </ul>
 
 ### Credits:
